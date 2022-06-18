@@ -1,0 +1,10 @@
+[
+  {
+    "package": "autoimage",
+    "oncran": true
+  },
+  {
+    "package": "smerc",
+    "oncran": true
+  }
+]

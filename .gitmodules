@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "autoimage"]
+	path = autoimage
+	url = https://github.com/jfrench/autoimage
+	shallow = true
+	registered = true
+[submodule "smerc"]
+	path = smerc
+	url = https://github.com/jfrench/smerc
+	shallow = true
+	registered = true
