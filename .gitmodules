@@ -13,6 +13,21 @@
 	url = https://github.com/jfrench/autoimage
 	shallow = true
 	registered = true
+[submodule "ExceedanceTools"]
+	path = ExceedanceTools
+	url = https://github.com/cran/ExceedanceTools
+	shallow = true
+	registered = true
+[submodule "gear"]
+	path = gear
+	url = https://github.com/cran/gear
+	shallow = true
+	registered = true
+[submodule "hero"]
+	path = hero
+	url = https://github.com/cran/hero
+	shallow = true
+	registered = true
 [submodule "smacpod"]
 	path = smacpod
 	url = https://github.com/jfrench/smacpod
