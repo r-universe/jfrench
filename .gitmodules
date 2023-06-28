@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "api2lm"]
 	path = api2lm
 	url = https://github.com/jfrench/api2lm
-	shallow = true
-	registered = true
 [submodule "autoimage"]
 	path = autoimage
 	url = https://github.com/jfrench/autoimage
-	shallow = true
-	registered = true
 [submodule "ExceedanceTools"]
 	path = ExceedanceTools
 	url = https://github.com/cran/ExceedanceTools
-	shallow = true
-	registered = true
 [submodule "gear"]
 	path = gear
 	url = https://github.com/cran/gear
-	shallow = true
-	registered = true
 [submodule "hero"]
 	path = hero
 	url = https://github.com/cran/hero
-	shallow = true
-	registered = true
 [submodule "smacpod"]
 	path = smacpod
 	url = https://github.com/jfrench/smacpod
-	shallow = true
-	registered = true
 [submodule "smerc"]
 	path = smerc
 	url = https://github.com/jfrench/smerc
-	shallow = true
-	registered = true
 [submodule "SpatialTools"]
 	path = SpatialTools
 	url = https://github.com/jfrench/spatialtools
-	shallow = true
-	registered = true
