@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "ExceedanceTools"]
 	path = ExceedanceTools
-	url = https://github.com/cran/ExceedanceTools
+	url = https://github.com/jfrench/exceedancetools
 [submodule "SpatialTools"]
 	path = SpatialTools
 	url = https://github.com/jfrench/spatialtools
